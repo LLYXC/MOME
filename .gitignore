@@ -89,6 +89,7 @@ venv/
 *ipynb*
 *debug*
 *log*
+*.sh
 debug.sh
 test_multi_aug.sh
 train_five*.sh
