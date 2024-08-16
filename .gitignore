@@ -1,0 +1,103 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and editor folders #
+##########################
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Node.js #
+###########
+node_modules/
+npm-debug.log
+
+# Python #
+##########
+*.py[cod]
+__pycache__/
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environment #
+#######################
+venv/
+.env
+
+# Other #
+#########
+*.bak
+*.tmp
+*.temp
+
+*.th
+*.csv
+*.txt
+*events*
+*slurm*
+*ipynb*
+*debug*
+*log*
+debug.sh
+test_multi_aug.sh
+train_five*.sh
+train_multi_ams.sh
+train_multi_ema.sh
+train_multi_subtype.sh
+train_uni.sh
+test_beit_multimodal_aug.py
+train_beit_multimodal_ema.py
+train_beit_multimodal_fivefold.py
+train_beit_multimodal_subtype_fivefold.py
+train_beit_multimodal_subtype.py
