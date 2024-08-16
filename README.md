@@ -33,8 +33,10 @@ The training and testing commands are provided in ./scripts
 
 **BibTeX:**
 
- @article{luo2024towards,
- title={Towards Non-invasive and Personalized Management of Breast Cancer Patients from Multiparametric MRI via A Large Mixture-of-Modality-Experts Model},
- author={Luo, Luyang and Wu, Mingxiang and Li, Mei and Xin, Yi and Wang, Qiong and Vardhanabhuti, Varut and Chu, Winnie CW and Li, Zhenhui and Zhou, Juan and Rajpurkar, Pranav and Chen, Hao},
- year={2024}
- }
+```
+@article{luo2024towards,
+title={Towards Non-invasive and Personalized Management of Breast Cancer Patients from Multiparametric MRIvia A Large Mixture-of-Modality-Experts Model},
+author={Luo, Luyang and Wu, Mingxiang and Li, Mei and Xin, Yi and Wang, Qiong and Vardhanabhuti, Varut andChu, Winnie CW and Li, Zhenhui and Zhou, Juan and Rajpurkar, Pranav and Chen, Hao},
+year={2024}
+}
+```
