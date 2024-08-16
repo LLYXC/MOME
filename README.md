@@ -1,5 +1,7 @@
 # Code repo for paper: Towards Non-invasive and Personalized Management of Breast Cancer Patients from Multiparametric MRI via A Large Mixture-of-Modality-Experts Model
 
+![Alt text](figures/Framework.png "Overall Framework of MOME")
+
 # Model Card for MOME
 
 <!-- Provide a quick summary of what the model is/does. -->
