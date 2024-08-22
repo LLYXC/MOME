@@ -37,7 +37,7 @@ year={2024}
 }
 ```
 
-### As our code is based on BEiT-3 and soft MOE, we also recommend cite the following works:
+### As our work is standing on the sholders of BEiT-3 and soft MOE, we also recommend cite the following works:
 ```
 @inproceedings{wang2023image,
 title={Image as a foreign language: Beit pretraining for vision and vision-language tasks},
