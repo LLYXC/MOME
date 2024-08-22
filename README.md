@@ -37,7 +37,7 @@ year={2024}
 }
 ```
 
-### As our code is based on BEiT-3, we also recommend cite the following work:
+### As our code is based on BEiT-3 and soft MOE, we also recommend cite the following works:
 ```
 @inproceedings{wang2023image,
 title={Image as a foreign language: Beit pretraining for vision and vision-language tasks},
@@ -45,5 +45,12 @@ author={Wang, Wenhui and Bao, Hangbo and Dong, Li and Bjorck, Johan and Peng, Zh
 booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
 pages={19175--19186},
 year={2023}
+}
+```
+```
+@inproceedings{puigcerversparse,
+  title={From Sparse to Soft Mixtures of Experts},
+  author={Puigcerver, Joan and Ruiz, Carlos Riquelme and Mustafa, Basil and Houlsby, Neil},
+  booktitle={The Twelfth International Conference on Learning Representations}
 }
 ```
