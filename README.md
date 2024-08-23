@@ -27,10 +27,11 @@ MOME conducts multimodel fusion and classification based on multi-sequence 3D me
 ## Uses
 
 <!-- Address questions around how the model is intended to be used, including the foreseeable users of the model and those affected by the model. -->
-- **Requirement:** Please see the requirement of [BEiT-3](https://github.com/microsoft/unilm/tree/master/beit3).
-- **Installation:**
+- **Requirement/dependencies:** Please see the requirement of [BEiT-3](https://github.com/microsoft/unilm/tree/master/beit3).
+- **Installation:** The installation will take a few seconds to minutes.
 ```
 git clone https://github.com/LLYXC/MOME.git
+mkdir log
 ```
 - **Training and Testing:** The training and testing commands are provided in [scripts](scripts).
 
