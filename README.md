@@ -8,9 +8,6 @@
 ![Alt text](figures/Framework.jpg "Overall Framework of MOME")
 
 # Model Card for MOME
-
-<!-- Provide a quick summary of what the model is/does. -->
-
 MOME conducts multimodel fusion and classification based on multi-sequence 3D medical data, e.g., multiparametric breast MRI.
 
 ## Model Details
@@ -25,15 +22,16 @@ MOME conducts multimodel fusion and classification based on multi-sequence 3D me
 - **License:** MIT
 - **Finetuned from model :** BEiT-3
 - **Repository:** https://github.com/LLYXC/MOME
-- **Paper [optional]:** Towards Non-invasive and Personalized Management of Breast Cancer Patients from Multiparametric MRI via A Large Mixture-of-Modality-Experts Model
+- **Paper:** Towards Non-invasive and Personalized Management of Breast Cancer Patients from Multiparametric MRI via A Large Mixture-of-Modality-Experts Model
 
 ## Uses
 
 <!-- Address questions around how the model is intended to be used, including the foreseeable users of the model and those affected by the model. -->
-The training and testing commands are provided in ./scripts
+- **Requirement:** Please see the requirement of [BEiT-3](https://github.com/microsoft/unilm/tree/master/beit3).
+- **Training and Testing:** The training and testing commands are provided in ./scripts.
 
 ## Citation
-### If you found our paper useful, please consider cite the following:
+### If you found our work useful, please consider cite the following:
 ```
 @article{luo2024towards,
 title={Towards Non-invasive and Personalized Management of Breast Cancer Patients from Multiparametric MRIvia A Large Mixture-of-Modality-Experts Model},
@@ -42,7 +40,7 @@ year={2024}
 }
 ```
 
-### As our work is standing on the sholders of BEiT-3 and soft MOE, we also recommend cite the following works:
+### Our work is standing on the sholders of [BEiT-3](https://github.com/microsoft/unilm/tree/master/beit3) and [soft MOE](https://github.com/bwconrad/soft-moe), please also consider cite the following works:
 ```
 @inproceedings{wang2023image,
 title={Image as a foreign language: Beit pretraining for vision and vision-language tasks},
