@@ -33,7 +33,9 @@ MOME conducts multimodel fusion and classification based on multi-sequence 3D me
 git clone https://github.com/LLYXC/MOME.git
 mkdir log
 ```
-- **Training and Testing:** The training and testing commands are provided in [scripts](scripts).
+- **[Sample Data](https://drive.google.com/drive/folders/1ja5OQJZCkDkTBMZorNt-hq1gVDH2dKWa?usp=sharing)** 
+- **Training and Testing:** The training and testing commands are provided in [scripts](scripts). Make a directory for the dataset, and use the csv file provided above to load the dataset.
+- **Expected output:** The model will generate probabilities for each sample, and the expected run time on an NVIDIA GeForce RTX 3090 GPU will be less than one minute.
 
 ## Citation
 ### If you found our work useful, please consider cite the following:
