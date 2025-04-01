@@ -1,0 +1,11 @@
+MOME
+Copyright 2025 Luyang Luo
+
+This product includes software developed by Luyang Luo.
+
+This product includes software from unilm
+Copyright (c) Microsoft Corporation
+Licensed under the MIT License
+
+This product includes software from an implementation of soft-moe by https://github.com/bwconrad/soft-moe/tree/main
+Licensed under the Apache License 2.0
