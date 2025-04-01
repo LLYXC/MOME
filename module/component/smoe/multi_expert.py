@@ -1,3 +1,5 @@
+# Code from https://github.com/bwconrad/soft-moe/tree/main under Apache License 2.0
+
 from __future__ import annotations
 
 import math
