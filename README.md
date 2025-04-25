@@ -1,4 +1,4 @@
-<!-- ## A large model for non-invasive and personalized management of breast cancer from multiparametric MRI-->
+<!-- ## A large model for non-invasive and personalized management of breast cancer from multiparametric MRI -->
 ![GitHub last commit](https://img.shields.io/github/last-commit/birkhoffkiki/GPFM?style=flat-square)
 --- 
 
