@@ -1,4 +1,4 @@
-<!-- ## Towards Non-invasive and Personalized Management of Breast Cancer Patients from Multiparametric MRI via A Large Mixture-of-Modality-Experts Model-->
+<!-- ## A large model for non-invasive and personalized management of breast cancer from multiparametric MRI-->
 ![GitHub last commit](https://img.shields.io/github/last-commit/birkhoffkiki/GPFM?style=flat-square)
 --- 
 
@@ -39,10 +39,15 @@ mkdir log
 ## Citation
 ### If you found our work useful, please consider cite the following:
 ```
-@article{luo2024towards,
-title={Towards Non-invasive and Personalized Management of Breast Cancer Patients from Multiparametric MRIvia A Large Mixture-of-Modality-Experts Model},
-author={Luo, Luyang and Wu, Mingxiang and Li, Mei and Xin, Yi and Wang, Qiong and Vardhanabhuti, Varut andChu, Winnie CW and Li, Zhenhui and Zhou, Juan and Rajpurkar, Pranav and Chen, Hao},
-year={2024}
+@article{luo2025large,
+  title={A large model for non-invasive and personalized management of breast cancer from multiparametric MRI},
+  author={Luo, Luyang and Wu, Mingxiang and Li, Mei and Xin, Yi and Wang, Qiong and Vardhanabhuti, Varut and Chu, Winnie CW and Li, Zhenhui and Zhou, Juan and Rajpurkar, Pranav and others},
+  journal={Nature Communications},
+  volume={16},
+  number={1},
+  pages={3647},
+  year={2025},
+  publisher={Nature Publishing Group UK London}
 }
 ```
 
