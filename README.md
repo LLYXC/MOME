@@ -2,7 +2,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/birkhoffkiki/GPFM?style=flat-square)
 --- 
 
-# Towards Non-invasive and Personalized Management of Breast Cancer Patients from Multiparametric MRI via A Large Mixture-of-Modality-Experts Model
+# A large model for non-invasive and personalized management of breast cancer from multiparametric MRI
 
 ![Alt text](figures/Framework.jpg "Overall Framework of MOME")
 
