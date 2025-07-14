@@ -18,7 +18,7 @@ MOME conducts multimodel fusion and classification based on multi-sequence 3D me
 
 - **Developed by:** Luyang Luo
 - **Model type:** Transformer (based on BEiT3)
-- **License:** MIT
+- **License:** Apache
 - **Finetuned from model :** BEiT-3
 - **Repository:** https://github.com/LLYXC/MOME
 - **Paper:** Towards Non-invasive and Personalized Management of Breast Cancer Patients from Multiparametric MRI via A Large Mixture-of-Modality-Experts Model
@@ -35,7 +35,7 @@ mkdir log
 - **[Sample Data](https://drive.google.com/drive/folders/1ja5OQJZCkDkTBMZorNt-hq1gVDH2dKWa?usp=sharing)** 
 - **Training and Testing:** The training and testing commands are provided in [scripts](scripts). Make a directory for the dataset, and use the csv file provided above to load the dataset.
 - **Expected output:** The model will generate probabilities for each sample, and the expected run time on an NVIDIA GeForce RTX 3090 GPU will be less than one minute.
-
+- **Model Weights:** https://drive.google.com/drive/folders/1gfKWcEb-z-lCp_j7Jw9OizWmiW9rdziK?usp=drive_link
 ## Citation
 ### If you found our work useful, please consider cite the following:
 ```
